@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2022-02-25 23:15:54</sys_created_on>
+        <sys_id>e7e298d31b3d0510cdd81f49274bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testsource_testing.x_snc_testsource.testing_user</sys_name>
+        <sys_package display_value="TestSource" source="x_snc_testsource">02a25c131b3d0510cdd81f49274bcb06</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestSource">02a25c131b3d0510cdd81f49274bcb06</sys_scope>
+        <sys_security_acl display_value="x_snc_testsource_testing">63e298d31b3d0510cdd81f49274bcb15</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e7e298d31b3d0510cdd81f49274bcb19</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2022-02-25 23:15:54</sys_updated_on>
+        <sys_user_role display_value="x_snc_testsource.testing_user" name="x_snc_testsource.testing_user">47e258d31b3d0510cdd81f49274bcbcf</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

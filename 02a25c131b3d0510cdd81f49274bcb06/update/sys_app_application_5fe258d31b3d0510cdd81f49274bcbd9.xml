@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Testing</name>
+        <order>100</order>
+        <roles>x_snc_testsource.testing_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2022-02-25 23:15:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5fe258d31b3d0510cdd81f49274bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TestSource" source="x_snc_testsource">02a25c131b3d0510cdd81f49274bcb06</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestSource">02a25c131b3d0510cdd81f49274bcb06</sys_scope>
+        <sys_update_name>sys_app_application_5fe258d31b3d0510cdd81f49274bcbd9</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2022-02-25 23:15:53</sys_updated_on>
+        <title>Testing</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
