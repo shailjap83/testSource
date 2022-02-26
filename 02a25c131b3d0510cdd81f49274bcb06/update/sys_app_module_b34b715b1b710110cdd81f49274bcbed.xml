@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Testing 2">b34b715b1b710110cdd81f49274bcbe9</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Testing 2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_testsource_testing_2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_testsource.testing_2_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2022-02-26 06:51:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b34b715b1b710110cdd81f49274bcbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing 2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TestSource" source="x_snc_testsource">02a25c131b3d0510cdd81f49274bcb06</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestSource">02a25c131b3d0510cdd81f49274bcb06</sys_scope>
+        <sys_update_name>sys_app_module_b34b715b1b710110cdd81f49274bcbed</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2022-02-26 06:51:57</sys_updated_on>
+        <timeline_page/>
+        <title>Testing 2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
